@@ -1,4 +1,4 @@
-# Chasing behaviour modelling in a group of three mice
+# Chasing behaviour model in a group of three mice
 
 ![GB_dynamics](https://github.com/Chae-Woo/Group-Behaviour-Dynamics/assets/45866328/fd554bf1-a377-4d41-b784-d5421fefac63)
 
