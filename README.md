@@ -2,6 +2,7 @@
 
 ![GB_dynamics](https://github.com/Chae-Woo/Group-Behaviour-Dynamics/assets/45866328/fd554bf1-a377-4d41-b784-d5421fefac63)
 
+## Simulation
 https://github.com/Chae-Woo/Group-Behaviour-Dynamics/assets/45866328/6b0027e1-7357-406a-ae6b-bcfa61324aae
 
 Dominant mouse (red), escaping mouse (green),  bystander mouse (blue)
