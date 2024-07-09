@@ -4,5 +4,5 @@ https://github.com/Chae-Woo/Group-Behaviour-Dynamics/assets/45866328/6b0027e1-73
 
 Dominant mouse (red), submissive mouse 1 (green),  submissive mouse 2 (blue)
 
-The dominant mouse is chasing the submissive mouse1, and the submissive mouse2 stays still in the corner.
+The dominant mouse is chasing the submissive mouse1 (from 16 sec), and the submissive mouse2 stays still in the corner.
 The computational model was created based on the experiment observing the behaviours of three mice in a cage.
